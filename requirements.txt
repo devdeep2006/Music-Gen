@@ -9,4 +9,5 @@ scikit-learn
 soundfile
 mido
 matplotlib
+plotly
 fluidsynth
