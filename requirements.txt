@@ -1,1 +1,10 @@
-"streamlitpretty_miditensorflownumpypandastorchlibrosascikit-learnsoundfilemido" 
+streamlit
+pretty_midi
+tensorflow
+numpy
+pandas
+torch
+librosa
+scikit-learn
+soundfile
+mido
