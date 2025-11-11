@@ -8,3 +8,4 @@ librosa
 scikit-learn
 soundfile
 mido
+matplotlib
